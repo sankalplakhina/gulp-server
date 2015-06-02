@@ -1,0 +1,19 @@
+{
+  "name": "gulp-server",
+  "version": "0.0.0",
+  "authors": [
+    "Sankalp Lakhina <sankalp.lakhina@ge.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0"
+  }
+}
